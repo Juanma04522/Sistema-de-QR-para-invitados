@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../../EventosSraKatty/Eventos.Application/Application.csproj" />
+  <Project Path="../../EventosSraKatty/Eventos.Doman/Domain.csproj" />
+  <Project Path="../../EventosSraKatty/Eventos.Infrastructure/Infrastructure.csproj" />
+  <Project Path="Eventos.Presentation/Presentation.csproj" />
+</Solution>
